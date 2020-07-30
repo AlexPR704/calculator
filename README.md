@@ -8,7 +8,7 @@ No installation process required.
 
 
 # Links
-https://alexpr704.github.io/employee-tracker/
+https://alexpr704.github.io/calculator/
 
 # Credits
 Big credits goes to the javascript course I had taken in my bootcamp.
