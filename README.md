@@ -7,21 +7,11 @@ No installation process required.
 ![screenshot of the code](Images/gif.gif)
 
 
-
-# Usage
-This is a command-line application used to
-
-Add departments, roles, employees
-
-View departments, roles, employees
-
-Update employee roles
-
 # Links
 https://alexpr704.github.io/employee-tracker/
 
 # Credits
-Big credits goes to the javascript course I had taken in my bootcamp. Also credits goes to watching tutorial
+Big credits goes to the javascript course I had taken in my bootcamp.
 
 # License
 MIT License
