@@ -4,7 +4,7 @@ A  simple calculator that covers the complex interactions with UI and Javascript
 # Installation
 No installation process required.
 
-![screenshot of the code](Images/gif.gif)
+![screenshot of the code](gif.gif)
 
 
 # Links
