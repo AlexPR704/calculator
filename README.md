@@ -1,4 +1,4 @@
-# calculator
+# Calculator
 A  simple calculator that covers the complex interactions with UI and Javascript.
 
 # Installation
@@ -8,7 +8,7 @@ No installation process required.
 
 
 # Links
-https://alexpr704.github.io/calculator/
+Deployed Link: https://alexpr704.github.io/calculator/
 
 # Credits
 Big credits goes to the javascript course I had taken in my bootcamp.
